@@ -1,0 +1,30 @@
+{
+    "signin": "SIGN IN",
+    "@signin": {
+      "description": "The sign in word in the sign in page"
+    },
+    "emailHintText": "Enter your email",
+    "@emailHintText": {
+      "description": "hint text for the email in the sign in page"
+    },
+    "passwordHintText": "Enter your password",
+    "@emailHintText": {
+      "description": "hint text for the password in the sign in page"
+    },
+    "pleaseSignIn": "Please sign in",
+    "@pleaseSignIn": {
+      "description": "Please sign in text in the signin page"
+    },
+    "english": "English",
+    "@english": {
+      "description": "english language name"
+    },
+    "turkish": "Turkish",
+    "@turkish": {
+      "description": "turkish language name"
+    },
+    "german": "German",
+    "@german": {
+      "description": "german language name"
+    }
+}

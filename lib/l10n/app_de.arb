@@ -1,0 +1,9 @@
+{
+    "signin": "Einloggen",
+    "emailHintText": "Geben sie ihre E-Mail Adresse ein",
+    "passwordHintText": "Geben Sie Ihr Passwort ein",
+    "pleaseSignIn": "Bitte einloggen",
+    "english": "English",
+    "turkish": "Türkisch",
+    "german": "Deutsch"
+}
